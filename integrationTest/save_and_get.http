@@ -1,0 +1,9 @@
+POST localhost:8080/users
+Content-Type: application/json
+
+{
+  "name": "John Doe"
+}
+
+###
+GET localhost:8080/users/3a60e921-7617-4fb4-92a4-056aebb890c9

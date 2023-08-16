@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+db:
+  host: localhost
+  port: 3306
+  username: user_account
+  password: 1234
+  dbname: user_service
